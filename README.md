@@ -101,9 +101,3 @@ El proyecto se dividió en 5 etapas clave:
 3. Abre el archivo `index.html` en tu navegador.
 
 ---
-
-## 👨‍💻 Autor
-
-**[Tu Nombre]**
-Estudiante de Desarrollo Full Stack
-[Tu GitHub] | [Tu LinkedIn]
