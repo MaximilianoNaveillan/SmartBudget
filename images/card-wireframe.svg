@@ -1,0 +1,58 @@
+<svg width="320" height="450" viewBox="0 0 320 450" xmlns="http://www.w3.org/2000/svg">
+  <!-- Card container -->
+  <rect x="10" y="10" width="300" height="430" rx="12" ry="12"
+        fill="none" stroke="#999" stroke-width="2"/>
+
+  <!-- Card image -->
+  <rect x="30" y="30" width="260" height="140"
+        fill="#f2f2f2" stroke="#bbb" stroke-dasharray="4"/>
+  <text x="160" y="105" text-anchor="middle" fill="#888" font-size="14">
+    card-image
+  </text>
+
+  <!-- Card title -->
+  <rect x="30" y="190" width="260" height="30"
+        fill="none" stroke="#bbb"/>
+  <text x="40" y="210" fill="#666" font-size="14">
+    card-title
+  </text>
+
+  <!-- Card subtitle -->
+  <rect x="30" y="230" width="260" height="50"
+        fill="none" stroke="#ccc" stroke-dasharray="3"/>
+  <text x="40" y="255" fill="#777" font-size="13">
+    card-subtitle
+  </text>
+
+  <!-- Social media section -->
+  <rect x="30" y="300" width="260" height="40"
+        fill="none" stroke="#ccc" stroke-dasharray="3"/>
+  <text x="40" y="315" fill="#777" font-size="12">
+    social-actions
+  </text>
+
+  <!-- LinkedIn button -->
+  <rect x="190" y="308" width="36" height="24" rx="4" ry="4"
+        fill="none" stroke="#888"/>
+  <text x="208" y="325" text-anchor="middle" font-size="10" fill="#666">
+    in
+  </text>
+
+  <!-- GitHub button -->
+  <rect x="236" y="308" width="36" height="24" rx="4" ry="4"
+        fill="none" stroke="#888"/>
+  <text x="254" y="325" text-anchor="middle" font-size="10" fill="#666">
+    GH
+  </text>
+
+  <!-- Card action container -->
+  <rect x="30" y="350" width="260" height="70"
+        fill="none" stroke="#bbb"/>
+
+  <!-- Full-width CTA button -->
+  <rect x="45" y="370" width="230" height="32" rx="6" ry="6"
+        fill="none" stroke="#888"/>
+  <text x="160" y="392" text-anchor="middle" fill="#555" font-size="13">
+    CTA
+  </text>
+</svg>
